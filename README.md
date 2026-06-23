@@ -4,9 +4,9 @@
 
 ### 💻 Software Developer · 🎓 CS Student · 🇪🇨 Ecuador
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-velez23)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardovelez981@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoVelez23)
 
 </div>
 
@@ -107,7 +107,14 @@ Research on software architectures bridging the gap between experimental AI mode
 | Course | Platform | Date | Hours |
 |--------|----------|------|-------|
 | Angular: De cero a experto | DevTalles (Fernando Herrera) | Mar 2026 | 33.5h |
-| Deep Learning A–Z: Redes Neuronales en Python | SuperDataScience | Mar 2026 | 32h |
+| Deep Learning: Redes Neuronales en Python | SuperDataScience | Mar 2026 | 32h |
+| Bash Scripting & Shell Automation: The Linux Architect Guide | Udemy (OCSALY Academy) | Mar 2026 | 8.5h |
+| Club Java Master - Novato a Experto Java | Udemy (Ing. Ubaldo Acosta) | Mar 2026 | 110h |
+| Python Mastery: De Cero a Experto | Udemy (.NET University) | Mar 2026 | 51.5h |
+| Rust Programming Bootcamp | Udemy (School of AI) | Mar 2026 | 4h |
+| Master in Systems Thinking | Udemy (Arun Singhal) | Mar 2026 | 9h |
+| 7 Days of Hands-On AI Development Bootcamp | Udemy (School of AI) | Mar 2026 | 9.5h |
+| Master Scrum Basics | Udemy (Vipesh Singla) | Jun 2026 | 5h |
 | Gestión de proyectos ágiles | — | — | — |
 | Fundamentos del desarrollo web Full Stack | — | — | — |
 
