@@ -38,15 +38,23 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Apache CXF](https://img.shields.io/badge/Apache_CXF-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![JBoss EAP](https://img.shields.io/badge/JBoss_EAP-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
+![WebSphere](https://img.shields.io/badge/WebSphere-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-0D6EFD?style=for-the-badge&logo=jaspersoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Karaf](https://img.shields.io/badge/Apache_Karaf_(OSGi)-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -61,23 +69,28 @@
 ### Tools / Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects / Proyectos Destacados
 
 ### 📱 HVQ Contigo — Hospital Vozandes · RedCode Integrations
-> Flutter · Dart · BLoC/Cubit · MVVM · REST APIs · Real-time video (RTC) · Unit & widget testing · SonarQube · CI/CD
+> Flutter · Dart · BLoC/Cubit · MVVM · REST APIs (Swagger, Dio) · Real-time video (RTC) · Unit & widget testing · SonarQube · CI/CD
 
 Patient app for Hospital Vozandes (Android & iOS), developed by the RedCode Integrations team. I worked on it as a mobile developer on the team from March to November 2026. My main contributions were:
 
 - 🎥 **Telemedicine:** led the development of the video consultation module — incoming calls, reconnection, background audio and screen sharing on Android & iOS.
 - 💳 **Payments:** appointment cart, payment gateway integration (WebView, MVVM) and payment history.
+- 🔌 **API integration:** consumption of Swagger-documented REST APIs with Dio, including error handling and loading states.
 - 📅 **Appointment scheduling:** in-person and telemedicine booking, doctor and specialty search, family members management.
 - 🧪 **Code quality:** test coverage, static analysis fixes and linter rules.
 - 🚀 **Releases:** Android & iOS build configuration, versioning, CI workflow and technical documentation.
@@ -101,15 +114,6 @@ Dynamic Form Builder platform with configurable components, stored procedure int
 Mobile ordering app for a university restaurant (Android & iOS). Customers sign up, browse the menu, build a cart, place orders, track them live, pay by card and manage their profile and payment history. Feature-based Clean Architecture (auth, menu, cart, orders, profile) backed by its own REST API ([SaborHub_backend](https://github.com/LeonardoVelez23/SaborHub_backend)).
 
 *App de pedidos para el restaurante universitario (Android & iOS): registro, menú, carrito, pedidos con seguimiento en vivo, pago con tarjeta y gestión de perfil. Clean Architecture por features con MVVM y su propia API REST.*
-
----
-
-### 🤖 ML in Agro Datasets — SISCOM Group · ESPAM MFL
-> Python · Pandas · Scikit-learn · Matplotlib · Google Colab
-
-Comparative analysis of Machine Learning models (classification & regression) applied to agricultural datasets.
-
-*Análisis comparativo de modelos de Machine Learning aplicados a conjuntos de datos agropecuarios.*
 
 ---
 
@@ -159,6 +163,10 @@ Research on software architectures bridging the gap between experimental AI mode
 | Master in Systems Thinking | Udemy (Arun Singhal) | Mar 2026 | 9h |
 | 7 Days of Hands-On AI Development Bootcamp | Udemy (School of AI) | Mar 2026 | 9.5h |
 | Master Scrum Basics | Udemy (Vipesh Singla) | Jun 2026 | 5h |
+| [Claude Academy: Building with the Claude API](https://academy.claude.com/verify/86359f2f97d68b65a97c25d81649f893) | Anthropic | Nov 2026 | — |
+| [Claude Academy: Building effective human-agent teams (beta)](https://academy.claude.com/verify/22c60289d39d944dc44d33d9e55a487e) | Anthropic | Nov 2026 | — |
+| [Claude Academy: Claude 101](https://academy.claude.com/verify/e31a827505fdf17c431bf428b6486ec3) | Anthropic | Nov 2026 | — |
+| [Claude Academy: AI capabilities and limitations](https://academy.claude.com/verify/7b5d532ca79734443a42ee61cf5a2d92) | Anthropic | Nov 2026 | — |
 | Gestión de proyectos ágiles | — | — | — |
 | Fundamentos del desarrollo web Full Stack | — | — | — |
 
