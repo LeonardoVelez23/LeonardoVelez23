@@ -54,6 +54,7 @@
 ![Apache CXF](https://img.shields.io/badge/Apache_CXF-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![JBoss EAP](https://img.shields.io/badge/JBoss_EAP-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![WebSphere](https://img.shields.io/badge/WebSphere-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 ![JasperReports](https://img.shields.io/badge/JasperReports-0D6EFD?style=for-the-badge&logo=jaspersoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Karaf](https://img.shields.io/badge/Apache_Karaf_(OSGi)-D22128?style=for-the-badge&logo=apache&logoColor=white)
